@@ -1,0 +1,11 @@
+gradio
+yt-dlp
+librosa
+soundfile
+openai-whisper
+torch
+transformers
+numpy
+pandas
+requests
+pydub
